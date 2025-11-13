@@ -23,3 +23,15 @@ git push -u origin main
 ```
 
 Make sure you run the script in Git Bash (Windows) or a Unix-compatible shell.
+
+## 📸 Screenshots
+
+### Web App Demo
+![Web Demo](./docs/screenshots/web_demo.png)
+
+### Android App Demo
+![Android Demo](./docs/screenshots/android_demo.png)
+
+### Demo (GIF)
+![Demo GIF](./docs/screenshots/demo.gif)
+

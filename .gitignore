@@ -1,0 +1,14 @@
+# Android / Gradle
+.gradle
+/local.properties
+**/build/
+*.iml
+*.log
+
+# Node
+node_modules
+dist
+.env
+
+# macOS
+.DS_Store

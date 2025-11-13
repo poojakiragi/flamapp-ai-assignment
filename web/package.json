@@ -1,0 +1,12 @@
+{
+  "name": "flamapp-web",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "npx http-server . -c-1 -p 8080"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "http-server": "^14.1.1"
+  }
+}
